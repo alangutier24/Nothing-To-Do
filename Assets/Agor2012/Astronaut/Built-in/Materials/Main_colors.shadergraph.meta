@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 24e710b8dd1b920498dd7a9fa7bfc1e6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336516
+  packageName: Astronaut modular low-poly stylized
+  packageVersion: 1.0
+  assetPath: Assets/Agor2012/Astronaut/Built-in/Materials/Main_colors.shadergraph
+  uploadId: 796240

@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 5f9837e3d27caa449bb0b855f701f2be
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 1
+    sampleRateOverride: 44100
+    compressionFormat: 0
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 337422
+  packageName: "Complete Game Music Collection \u2014 Epic Soundtracks for Every
+    Genre"
+  packageVersion: 1.0
+  assetPath: "Assets/Complete Game Music Collection \u2014 Epic Soundtracks for Every
+    Genre/Simulation Game Music Pack \u2014 Immersive & Dynamic Background Tracks/The
+    Orchard\u2019s Whisper.wav"
+  uploadId: 798730

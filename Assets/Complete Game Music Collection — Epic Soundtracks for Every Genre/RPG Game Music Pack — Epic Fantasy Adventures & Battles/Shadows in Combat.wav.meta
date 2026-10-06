@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 703607f864ce5cc4aa1e231a7809cf13
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 1
+    sampleRateOverride: 44100
+    compressionFormat: 0
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 337422
+  packageName: "Complete Game Music Collection \u2014 Epic Soundtracks for Every
+    Genre"
+  packageVersion: 1.0
+  assetPath: "Assets/Complete Game Music Collection \u2014 Epic Soundtracks for Every
+    Genre/RPG Game Music Pack \u2014 Epic Fantasy Adventures & Battles/Shadows in
+    Combat.wav"
+  uploadId: 798730

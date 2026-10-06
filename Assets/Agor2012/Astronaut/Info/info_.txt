@@ -1,0 +1,15 @@
+Thank you for downloading this model.
+
+If you want to enable HDRP, you need to run the file URP_to_HDRP.unitypackage in the Assets → Agor2012 → Astronaut → HDRP folder.
+
+If you purchased this asset and need the original Blender file - just let me know.
+
+The best way to change the colors of the characters is in the Blender file by shifting the polygons on the texture map - if you don't know how - just contact me.
+
+I hope it meets your expectations.
+If you liked this model, please give it a thumbs up and leave your review—it really helps me create new models.
+
+If you have any questions or feedback, feel free to reach out to me anytime.
+I always try to help as much as I can.
+
+info@agor2012.com
