@@ -3,7 +3,7 @@
   <img src="docs/media/hero.gif" alt="Space Marine gameplay" width="100%">
 </p>
 
-<h1 align="center">Space Marine</h1>
+<h1 align="center">Trapped In Space</h1>
 
 <p align="center">
   <b>Stranded. Outgunned. Not alone.</b><br>
@@ -21,16 +21,14 @@
 
 ## About
 
-**Space Marine** is a solo project built to showcase gameplay programming in Unity. The goal is to build core third-person action systems — combat, enemy AI, and game feel — from the ground up, and to document the process along the way.
+**Trapped In Space** is a solo project built to showcase gameplay programming in Unity. The goal is to build core third-person action systems — combat, enemy AI, and game feel — from the ground up, and to document the process along the way.
 
 > ⚠️ Early development. Features and visuals are work in progress.
 
 ## Current Features
 
-<!-- Add a short GIF or screenshot under each feature if you can -->
-
-- **Third-person shooting** — <!-- e.g. raycast/projectile, aiming, recoil, hit feedback -->
-- **Enemy patrol AI** — <!-- e.g. NavMesh waypoint patrol, state machine -->
+- **Third-person shooting** — 
+- **Enemy patrol AI** — 
 
 ## Roadmap
 
@@ -45,8 +43,8 @@
 
 | | |
 |---|---|
-| **Engine** | Unity 2022.3 LTS <!-- update version --> |
-| **Render Pipeline** | URP <!-- update --> |
+| **Engine** | Unity 2022.3 LTS |
+| **Render Pipeline** | URP |
 | **Language** | C# |
 | **Platform** | PC |
 
